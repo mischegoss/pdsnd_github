@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+# Purpose of the project
+The purpose of this project is to practice essential Github skills that are useful to any developer. 
 
-### Project Title
-Replace the Project Title
+## Git Commands
+This is the Git Commands project. 
 
-### Description
-Describe what your project is about and what it does
+## Description
+This project practices Github skills
 
-### Files used
-Include the files used
+## Credits
+This project was created by Udacity.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Additional Notes
+This project is the third project of a Udacity nanodegree. For more information on the program [click here](http://udacity.com)
+
 
