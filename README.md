@@ -1,5 +1,5 @@
-### Date created
-Include the date you created this project and README file.
+### Purpose of the project
+The purpose of this project is to practice essential Github skills that are useful to any developer. 
 
 ### Project Title
 Replace the Project Title
