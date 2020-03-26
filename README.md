@@ -8,7 +8,10 @@ This is the Git Commands project
 This project practices Github skills
 
 
-### Credits
+## Credits
 This project was created by Udacity.
+
+### Additional Notes
+This project is the third project of a Udacity nanodegree.
 
 
